@@ -1,0 +1,26 @@
+# Renders a terminal-style metrics card (github-metrics.svg) and commits it back
+# to the default branch, where the README embeds it as ./github-metrics.svg.
+name: Metrics (terminal card)
+
+on:
+  schedule:
+    - cron: "32 2 * * *" # every day at 02:32 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  terminal-card:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Render terminal card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          template: terminal
+          filename: github-metrics.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          output_action: commit
