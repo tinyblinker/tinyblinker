@@ -1,24 +1,27 @@
-# tinyblinker
+# ✦ tinyblinker ✦
 
 I use GNU/Linux and GNU Emacs every day.
 
 My main languages are Rust and C.
 
-I like Linux, Emacs, operating systems, Lisp, Lisp machines,
-and a pure terminal workflow.
+I like Linux · Emacs · operating systems · Lisp · Lisp machines · a pure terminal workflow.
 
 I learn by reading manuals and writing notes in org-mode.
 
-I live in Chengdu, China (UTC+8).
+I live in Chengdu, China · UTC+8.
 
-## Recent projects
+────────────────────────────────
 
-- life_game — Conway's Game of Life
-- mini_cava — a music visualizer in the terminal
-- lisp_rs — a small Lisp interpreter
-- racho — a small operating system project
+## ❯ Recent projects
 
-## Quotes from my notes
+- ▸ life_game — Conway's Game of Life
+- ▸ mini_cava — a music visualizer in the terminal
+- ▸ lisp_rs — a small Lisp interpreter
+- ▸ racho — a small operating system project
+
+────────────────────────────────
+
+## ❯ Quotes from my notes
 
 > "I am tinyblinker, who lives in emacs with GNU/Linux."
 
@@ -36,8 +39,12 @@ I live in Chengdu, China (UTC+8).
 
 I copied the words and punctuation exactly.
 
+────────────────────────────────
+
 ```text
 $ echo "if you never forget, there will be an echo."
 $ exit 0
 EOF
 ```
+
+∎
