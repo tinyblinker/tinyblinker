@@ -33,7 +33,7 @@ I live in Chengdu, China · UTC+8.
 
 > "无聊的无意义的折腾,谁又定义了它的无意义呢?"
 
-> "Live in GNU/LINUX with GNU Emacs without AI but mannuals."
+> "Live in GNU/LINUX with GNU Emacs."
 
 > "数学是理论，代码是工程，落地才是真高级。"
 
