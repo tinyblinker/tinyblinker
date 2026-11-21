@@ -1,4 +1,4 @@
-# ✦ tinyblinker ✦
+# >>_<< tinyblinker >>_<<
 
 I use GNU/Linux and GNU Emacs every day.
 
@@ -12,16 +12,36 @@ I live in Chengdu, China · UTC+8.
 
 ────────────────────────────────
 
-## ❯ Recent projects
+## >> Recent projects
 
-- ▸ life_game — Conway's Game of Life
-- ▸ mini_cava — a music visualizer in the terminal
-- ▸ lisp_rs — a small Lisp interpreter
-- ▸ racho — a small operating system project
+### Useful
+- > [ToyNeuralNetwork](https://github.com/tinyblinker/ToyNeuralNetwork) - A small toy neural network library written in C. 
+- > [lisp_rs](https://github.com/tinyblinker/lisp_rs) - A small toy Lisp interpreter prototype.
+- > [echo](https://github.com/tinyblinker/echo) - (Plan) Lisp machine placeholder
+- > [malloc](https://github.com/tinyblinker/malloc) - A simple malloc implementation based on CSAPP malloc lab.
+- > [webserver](https://github.com/tinyblinker/webserver) - Toy webserver based on OSTEP's homework. 
+- > [wish](https://github.com/tinyblinker/wish) - First bad project: My toyshell based on the OSTEP's homework(wish shell) 
+- > [emacs-piano-mode](https://github.com/tinyblinker/emacs-piano-mode) - (Emacs Plugins) Turn your computer keyboard into a piano inside Emacs.
+- > [racho](https://github.com/tinyblinker/racho) - (Archieved) A small toy operating system project.
+- > [life_game](https://github.com/tinyblinker/life_game) - Toy Conway's Game of Life
+- > [mini_cava](https://github.com/tinyblinker/mini_cava) - A toy music visualizer in the terminal (just like cava)
+- > [emacs-dotfiles](https://github.com/tinyblinker/emacs-dotfiles) - My GNU Emacs' configuration
+- > [sway_dotfiles](https://github.com/tinyblinker/sway_dotfiles) - My configuration on Archlinux + SwayWM
+- > [nixos-configs](https://github.com/tinyblinker/nixos-configs) - My NixOS's configuration(Not used now, for ref only).
+- > [dots-dwm](https://github.com/tinyblinker/dots-dwm) - My archlinux + dwm configuration.(Not used now, for ref only)
+- > [dwm](https://github.com/tinyblinker/dwm) - My own fork of dwm to be used.(Not used now, for ref only)
 
+### Trash
+- > [cava_improve](https://github.com/tinyblinker/cava_improve) - (Archieved) Earlier version of 'mini_cava'
+- > [teacher-skills-for-opencode](https://github.com/tinyblinker/teacher-skills-for-opencode) - A skill(for fun) in markdown to let Opencode tech me.
+- > [radom_toy_grep](https://github.com/tinyblinker/radom_toy_grep) - A trash 'grep' for learning sth. in Rust.
+- > [learning_nextjs](https://github.com/tinyblinker/learning_nextjs) - (giveup cause I donnot like it) Learning of the Next.js.
+
+
+ 
 ────────────────────────────────
 
-## ❯ Quotes from my notes
+## >> Quotes from my notes
 
 > "I am tinyblinker, who lives in emacs with GNU/Linux."
 
@@ -36,8 +56,6 @@ I live in Chengdu, China · UTC+8.
 > "Live in GNU/LINUX with GNU Emacs."
 
 > "数学是理论，代码是工程，落地才是真高级。"
-
-I copied the words and punctuation exactly.
 
 ────────────────────────────────
 
