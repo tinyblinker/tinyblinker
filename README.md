@@ -1,4 +1,4 @@
-# >>_<< tinyblinker >>_<<
+# << tinyblinker >>
 
 I use GNU/Linux and GNU Emacs every day.
 
