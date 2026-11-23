@@ -61,6 +61,9 @@ I live in Chengdu, China · UTC+8.
 
 ```text
 $ echo "if you never forget, there will be an echo."
+$ echo "If you want to know exactly how it works, then build a prototype
+       'from scratch' with nearly (no) bare std libs (strictly without
+       any 3rd-party libs) only."
 $ exit 0
 EOF
 ```
